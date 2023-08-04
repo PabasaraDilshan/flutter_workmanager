@@ -37,6 +37,7 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
+    namespace 'be.tramckrijte.workmanager'
 }
 
 dependencies {
